@@ -36,7 +36,7 @@ the top and bottom halves? for the top an bottom of these animated oblisks
 they work fine if sync=true but i wanna get sync=false working with these too
 the first tile will chose a randomStartTime and pass it to the second in the pair? but where and when?
 
-## what i have considerd
+## what i have considered
 
 - using one sprite and animation for both tiles
   - i need two because they are on different layers and different positions
@@ -59,12 +59,6 @@ a. i want some tiles to sync with all others of same type (working) (waterBack &
 b. i want some tiles to not sync with all others of same type (working) (torches & banners)
 c. i want some tiles to sync with all others of same type and with top half but since all start at 0 this works by default (working) (water brush places back and fore tiles in sync)
 d. i want some tiles to not sync with all others of same type but sync in pairs with other specific tiles (not working) (oblisk brush)
-
-idk tilemaps seems like 
-
-test implimentation random start times?
-
-blah blah blah
 
 ## TODO
 
