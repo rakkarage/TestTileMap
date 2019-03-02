@@ -1,6 +1,6 @@
 # Deko
 
-![Deko](https://gfycat.com/actualcrazyatlanticblackgoby)
+![Deko](issue.gif)
 
 ## TileMap Layers
 
